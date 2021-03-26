@@ -33,8 +33,8 @@ The result of the succesful run is .xlsx file saved in same folder and e-mail co
 same file in your mailbox (_mail_to_).
 For the site, used in this script fresh files appear on workdays, around 13:00 GMT
 
-This file is absolutely free to use for anyone. You can with little effort add smtp 
+This repo is absolutely free to use for anyone. You can, with little effort, add smtp 
 authorization, select another lines from file and make more fancy formatting by 
-studying used modules docs and editing corresponding lines in script.
+studying docs of used modules and editing script.
 
 © Markov Dmitriy, 2021.
