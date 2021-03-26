@@ -6,6 +6,8 @@ downloads it;
 selects only several needed lines;
 saves this file with very basic formatting and sends it by email.
 
+It was written to practice scripting with python and to automate simple routine task.
+
 ## How to use
 
 This repo consists of two files: .py script itself and simple .ini
