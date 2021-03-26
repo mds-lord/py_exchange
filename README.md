@@ -10,7 +10,7 @@ It was written to practice scripting with python and to automate simple routine 
 
 ## How to use
 
-This repo consists of two files: .py script itself and simple .ini
+This repo consists of two files: *import.py* script itself and simple *import.ini*
 The very basic use is to save those files in any folder and run 
 ```
 import.py
