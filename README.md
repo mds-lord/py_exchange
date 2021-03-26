@@ -4,7 +4,7 @@ This simple script scraps hardcoded page of a website for links to .xls files;
 searches them for file named by specific pattern;
 downloads it; 
 selects only several needed lines;
-saves this file with very basic formatting and sends by email.
+saves this file with very basic formatting and sends it by email.
 
 ## How to use
 
@@ -18,6 +18,8 @@ If python asks for missing modules - just install them using pip
 ```
 pip install module_name
 ```
+If you have no idea what is pip, you can make yourself aquainted with it here:
+https://pypi.org/project/pip/
 
 You need to edit import.ini and replace fictional values of 
 _mail_from_, _mail_to_ and _smtp_server_ip_ with real ones.
